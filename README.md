@@ -1,5 +1,3 @@
-# Site Web En PHP
+# Simple Ecommerce with PHP and MySQL
 
-site E-Commerce
-
-Vente des livres en lignes
+Books Selling
